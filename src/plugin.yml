@@ -1,0 +1,6 @@
+name: Api
+version: Alpha
+main : fr.first92.octaapi.Api
+author: First92
+commands:
+  game:
