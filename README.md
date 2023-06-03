@@ -1,4 +1,4 @@
-## Octane API (Private) 🚀
+## Octana API 🚀
 
 <br/>
 
